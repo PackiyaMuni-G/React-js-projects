@@ -1,0 +1,10 @@
+.delivery{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:center ;
+}
+ .delivery-msg h1{
+    color: #ff6347;
+    background-color: black;
+}
